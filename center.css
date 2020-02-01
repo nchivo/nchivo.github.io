@@ -1,0 +1,128 @@
+body {
+	background-color: #F2B56B;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#viewinb {
+	display: block;
+	/*margin-bottom: 0;*/
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 20%;
+
+}
+
+.btn {
+	font-size: 20px;
+	padding: 4px;
+	color: white;
+	background-color: #071126;
+	margin-bottom: 20px;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	border:0px;
+  	font-family: Sans-serif;
+}
+
+h4 {
+	font-size: 18px;
+	font-family: Sans-serif;
+	color: white;
+	/*align-self: center;*/
+	text-align: center;
+	margin: 5px;
+	height: 50px;
+	width: 330px;
+	margin: 0;
+}
+
+.container {
+	width: 660px;
+    background-color: white;
+    margin: auto;
+    /*padding: 0;*/
+    /*background-color: #ffcc33;*/
+
+}
+
+.one {
+	width: 330px;
+	height:355px;
+    float: left;
+    /*height: 400px;*/
+    background-color: #027373;
+}
+
+.two {
+	width: 330px;
+	height:355px;
+    float: left;
+    /*height: 400px;*/
+    background-color: #027373;
+}
+
+.container <.endcover {
+	/*height:200px;*/
+	width:660px;
+	background-color: #027373;
+	color:black;
+}
+
+#logo {
+	padding-left: 20px;
+	padding-bottom: -15px;
+	/*float: left;*/
+	background-color: white;
+}
+
+.icon {
+	/*padding: 0;*/
+	/*width: 100px;*/
+	/*height: 100px;*/
+	float: right;
+	padding: 15px;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  height:30px;
+  text-align: center;
+  /*text-decoration: none;*/
+  /*float: right;*/
+  /*width: 50px;*/
+  /*border-radius: 50%;*/
+
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-youtube {
+  background: red;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
